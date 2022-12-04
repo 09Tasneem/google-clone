@@ -1,0 +1,76 @@
+#google_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+#input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#search-box {
+  width: 40%;
+  padding: 15px;
+  border-radius: 50px;
+  border: 1px solid rgb(227, 227, 227);
+  background-color: transparent;
+  padding-left: 40px;
+  outline: none;
+  font-size: 15px;
+}
+
+#search-icon {
+  margin-right: -30px;
+}
+
+#mic-icon {
+  margin-left: -60px;
+  margin-right: 10px;
+}
+
+#btn-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#btn-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#btn-container button {
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  margin: 5px;
+  outline: none;
+  border: 1px solid rgb(206, 206, 206);
+  color: gray;
+}
+
+#btn-container button:hover {
+  cursor: pointer;
+  color: black;
+}
+
+h4 {
+  font-size: 16px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 55, 255);
+}
+
+a:hover {
+  text-decoration: underline;
+}
